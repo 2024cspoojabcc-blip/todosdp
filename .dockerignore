@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.__py[cod]
+.git/
+.env
+todos.db
+
